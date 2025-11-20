@@ -1,0 +1,5 @@
+{
+  "name": "VyaparPro - Indian GST Billing",
+  "description": "A professional, client-side GST invoicing and billing application tailored for Indian businesses. Features persistent local storage, PDF printing, and automatic tax calculations (CGST/SGST/IGST).",
+  "requestFramePermissions": []
+}
